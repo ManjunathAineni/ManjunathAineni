@@ -1,8 +1,7 @@
 # 👋 Hi, I'm Manjunath Aineni  
 
-### 📊 Data Analyst | Machine Learning Enthusiast | Business Intelligence  
 
-Welcome to my GitHub! I'm a **Business Data Analyst** with a strong background in **statistics, machine learning, and data engineering**. Passionate about turning data into actionable insights, I specialize in **SQL, Python, R**, and **Power BI**, crafting interactive dashboards and predictive models that drive business decisions.  
+Welcome to my GitHub! I'm a **Data Analyst** with a strong background in **statistics, machine learning, and data engineering**. Passionate about turning data into actionable insights, I specialize in **SQL, Python, R**, and **Power BI**, crafting interactive dashboards and predictive models that drive business decisions.  
 
 ---
 
