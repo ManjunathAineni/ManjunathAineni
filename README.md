@@ -55,7 +55,7 @@ Welcome to my GitHub! I'm a **Data Analyst** with a strong background in **stati
 ## 📬 Connect with Me  
 
 📧 Email: [ainenimanjunath1@gmail.com](mailto:ainenimanjunath1@gmail.com)  
-💼 LinkedIn: [linkedin.com/in/manjunath-aineni](https://www.linkedin.com/in/manjunath-aineni/)  
+💼 LinkedIn: https://www.linkedin.com/in/manjunath-aineni-135ad/
 
 ---
 
