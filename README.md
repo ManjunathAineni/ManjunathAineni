@@ -1,149 +1,118 @@
-👨‍💻 Manjunath Aineni
-📍 Tallahassee, FL
-📞 +1-850-339-6021
-📧 ainenimanjunath1@gmail.com
-🔗 LinkedIn
-🔗 GitHub <!-- Add your actual GitHub URL here -->
+# 👋 Hi, I'm Manjunath Aineni  
+Welcome to my GitHub! I'm a **Data Analyst** with a strong foundation in **data science, statistics, and cloud-based analytics**. I have delivered impactful projects for clients like **JP Morgan**, automating ETL pipelines, enhancing forecasting accuracy, and building dynamic dashboards to drive decision-making. Currently pursuing my **MS in Data Science** with a focus on **AI, ML, and statistical modeling**.
 
-🔍 Profile
-Data Analyst with a strong history of driving process automation and delivering actionable insights for clients like JP Morgan. Proficient in Python, SQL, Power BI, and Azure Cloud for optimizing ETL pipelines, reducing churn risk, and enhancing financial forecasting. Currently pursuing an MS in Data Science, focusing on Statistics, AI, Machine Learning, and Cloud Analytics to support organizational growth and executive decision-making.
+---
 
-💼 Work Experience
-Aramark | Student Worker
-Aug 2023 – May 2025
+## 🔧 Skills & Technologies
 
-Delivered excellent service to 100+ students and staff daily.
+- **Programming & Data Analysis**: Python, SQL, R, SAS, SPSS, MATLAB  
+- **Data Visualization & BI**: Power BI, Tableau, Excel, ArcGIS, QGIS  
+- **Cloud & ETL Tools**: Azure, GCP, Azure Data Factory, Microsoft Fabric  
+- **Databases**: SQL Server, PostgreSQL, Snowflake  
+- **Machine Learning & Statistics**: Regression, Time Series, PCA, A/B Testing, Scikit-learn, TensorFlow, NLP  
+- **Other Tools**: Microsoft 365, SharePoint, Jira, Agile/Scrum, SDLC  
 
-Collaborated with 5+ team members for food prep and operations.
+---
 
-Reduced inventory waste by 15% through better stock management.
+## 💼 Experience
 
-Cognizant | Data Analyst
-Jul 2022 – Jun 2023
+### 📊 **Data Analyst – Cognizant (JP Morgan Client)**  
+*Jul 2022 – Jun 2023*  
+- Designed ETL pipelines with **Python & Apache Airflow**, reducing data processing time by 90%.  
+- Optimized **SQL** queries (CTEs, indexing, partitioning) to improve retrieval speed by 30%.  
+- Developed **Power BI dashboards** to track financial portfolios and transactions.  
+- Enhanced **forecasting models** (regression, time series) to improve accuracy by 25%.  
+- Presented insights to senior leadership for cost and risk strategy.
 
-Built Python ETL pipelines using Airflow for JP Morgan; reduced processing time by 90%.
+### 🎓 **Student Worker – Aramark**  
+*Aug 2023 – May 2025*  
+- Processed 100+ POS transactions daily with speed and precision.  
+- Reduced inventory waste by 15% with better stock control.  
+- Ensured smooth teamwork and station management during peak service hours.
 
-Optimized SQL queries using indexing, window functions, and tuning; reduced data retrieval time by 30%.
+### 💻 **Program Analyst Trainee – Cognizant (Intern)**  
+*Feb 2022 – Jun 2022*  
+- Built dashboards and automated reporting using **SQL, Python, Power BI**.  
+- Performed data validation and reduced inconsistencies by 40%.
 
-Automated reporting workflows; improved delivery speed by 25%.
+### 🛠️ **Project Analyst – Sneha Groups (Intern)**  
+*Jan 2021 – Jun 2021*  
+- Conducted churn analysis using SQL and regression modeling.  
+- Developed a **Power BI dashboard** and improved customer retention by 12%.
 
-Created Power BI dashboards to monitor financial portfolios; boosted decision-making efficiency by 40%.
+---
 
-Enhanced forecasting accuracy by 25% with regression/time series models.
+## 📌 Featured Projects
 
-Identified churn patterns and supported strategies that reduced attrition by 15%.
+### **📈 Stock Market Analysis & Forecasting** *(Python, LSTM)*  
+- Collected stock data using `yfinance`, calculated returns & volatility.  
+- Built **LSTM model** to predict stock prices with time series data.  
+- Visualized correlations using Seaborn & Matplotlib.
 
-Cognizant | Intern, Program Analyst Trainee
-Feb 2022 – Jun 2022
+### **🏠 House Price Prediction** *(R, Regression Modeling)*  
+- Built **OLS/WLS models** with R² = 0.9996 on Ames housing data.  
+- Applied transformations and multicollinearity fixes for better predictions.
 
-Built dashboards and performed data validation to reduce errors by 40%.
+### **🧠 Predictive Customer Segmentation** *(Clustering, Flask)*  
+- Used **K-Means** and **PCA** to segment customers and increase marketing efficiency by 20%.  
+- Deployed model with **Flask API** for real-time classification.
 
-Analyzed business metrics to drive decision-making.
+### **🔍 Fraud Detection System** *(Random Forest, SMOTE)*  
+- Built classifier to detect fraudulent transactions, improving detection by 35%.  
+- Balanced class data with **SMOTE**, deployed monitoring dashboard in Power BI.
 
-National Institute for MSMEs | Intern
-Sep 2021 – Nov 2021
+### **📊 HR Analytics Dashboard** *(Power BI, DAX)*  
+- Built a dynamic dashboard to analyze attrition and salary trends.  
+- Used **Power Query + DAX** to track key KPIs and support HR decisions.
 
-Trained in Project Management & Operations.
+---
 
-Reduced idle time by 25% through resource analysis.
+## 🧪 Job Simulation Projects
 
-Used Excel pivot tables and charts to improve tracking by 30%.
+### **Quantium Analytics**  
+- Identified test/control stores for uplift modeling.  
+- Delivered commercial recommendations based on predictive modeling.
 
-Sneha Groups | Data Analyst Intern
-Jan 2021 – Jun 2021
+### **PwC Switzerland – Power BI Simulation**  
+- Built dashboards for HR and DEI metrics.  
+- Delivered stakeholder insights via effective email communication.
 
-Analyzed churn using SQL and Excel; improved retention strategy.
+---
 
-Built logistic regression models and A/B testing framework; improved prediction accuracy by 82%.
+## 🎓 Education  
 
-Created a Power BI dashboard to track churn trends; boosted retention by 12%.
+🎓 **MS in Data Science (Statistics)**  
+📍 Florida State University, USA — *Aug 2023 – May 2025*  
+📊 GPA: 3.6 / 4.0
 
-🧠 Technical Skills
-Programming: Python, SQL, R, SAS, SPSS, MATLAB
+🎓 **B.E. in Mechanical Engineering**  
+📍 Anurag Group of Institutions, India — *Aug 2018 – May 2022*  
+📊 GPA: 3.5 / 4.0  
 
-Visualization: Power BI, Tableau, Excel, ArcGIS, QGIS
+---
 
-Cloud/ETL: Azure, GCP, Azure Data Factory, Microsoft Fabric
+## 🏅 Certifications  
+- 📜 *Python for Everybody* – University of Michigan  
+- 📜 *Microsoft Certified: Power BI Analyst Associate*  
+- 📜 *Project Management Foundations*
 
-Databases: SQL Server, PostgreSQL, Snowflake
+---
 
-Tools: Jira, SharePoint, Visio, Office 365, Agile/Scrum, SDLC
+## 🙋 Volunteer Experience  
+**COVID-19 Relief – State of Telangana, India**  
+- Documented and distributed aid to local communities.  
+- Collaborated with officials to coordinate response during a public health emergency.
 
-Testing: UAT, Test Case Design, Defect Tracking
+---
 
-ML/AI: Regression, A/B Testing, PCA, Scikit-learn, TensorFlow, Deep Learning, NLP, Time Series
+## 📫 Connect with Me  
 
-📊 Job Projects
-🔹 Quantium Data Analytics
-Built predictive models to identify top 5 test stores.
+📧 [ainenimanjunath1@gmail.com](mailto:ainenimanjunath1@gmail.com)  
+💼 [LinkedIn](https://www.linkedin.com/in/manjunath-aineni-135ad)  
+🌐 [GitHub](https://github.com/) <!-- Replace with your actual GitHub URL -->
 
-Conducted A/B testing with benchmark stores, increasing uplift test accuracy by 15%.
+---
 
-Delivered actionable commercial reports.
+> 💡 *"Transforming data into decisions, one insight at a time."*
 
-🔹 PwC Switzerland – Power BI
-Built dashboards to meet KPI goals and support data-driven decision-making.
-
-Communicated insights effectively with stakeholders.
-
-Analyzed HR data to address gender balance gaps.
-
-🚀 Academic & Personal Projects
-Predictive Customer Segmentation
-K-Means clustering for targeted marketing (20% improvement).
-
-PCA for dimensionality reduction.
-
-Deployed using Flask API for real-time classification.
-
-Fraud Detection System
-Built a Random Forest model; improved detection by 35%.
-
-Balanced data using SMOTE and optimized with hyperparameters.
-
-Monitored fraud in Power BI dashboard.
-
-Stock Market Analysis & Prediction
-Used yfinance to pull data on AAPL, AMZN, GOOGL, MSFT.
-
-Built LSTM model for price forecasting.
-
-Visualized with Matplotlib/Seaborn.
-
-House Price Prediction (R)
-Built OLS and WLS regression models; R² = 0.9996.
-
-Applied Box-Cox transformation and removed outliers.
-
-Identified GrLivArea and OverallQual as key predictors.
-
-HR Analytics Dashboard
-Developed Power BI dashboard analyzing attrition and salary trends.
-
-Created KPIs and DAX metrics for actionable HR insights.
-
-🤝 Volunteer Experience
-State of Telangana, India – COVID-19 Relief
-
-Maintained aid distribution records.
-
-Supported coordination and logistics across rural districts.
-
-Served communities during the pandemic crisis.
-
-📜 Certifications
-Python for Everybody – University of Michigan
-
-Microsoft Certified Power BI Analyst Associate
-
-Project Management Foundations
-
-🎓 Education
-Florida State University, USA
-Master of Science in Data Science (Statistics)
-Aug 2023 – May 2025 | GPA: 3.6/4.0
-
-Anurag Group of Institutions, India
-Bachelor of Engineering in Mechanical Engineering
-Aug 2018 – May 2022 | GPA: 3.5/4.0
 **🚀 Let's build data-driven solutions together!**  
