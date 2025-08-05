@@ -1,5 +1,5 @@
 # 👋 Hi, I'm Manjunath Aineni  
-Welcome to my GitHub! I'm a **Data Analyst** with a strong foundation in **data science, statistics, and cloud-based analytics**. I have delivered impactful projects for clients like **JP Morgan**, automating ETL pipelines, enhancing forecasting accuracy, and building dynamic dashboards to drive decision-making. Currently pursuing my **MS in Data Science** with a focus on **AI, ML, and statistical modeling**.
+Welcome to my GitHub!
 
 ---
 
