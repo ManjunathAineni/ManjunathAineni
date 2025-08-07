@@ -36,7 +36,7 @@ Welcome to my GitHub!
 - Performed data validation and reduced inconsistencies by 40%.
 
 ### 🛠️ **Project Analyst – Sneha Groups (Intern)**  
-*Jan 2021 – Jun 2021*  
+*Jan 2020 – Jun 2021*  
 - Conducted churn analysis using SQL and regression modeling.  
 - Developed a **Power BI dashboard** and improved customer retention by 12%.
 
